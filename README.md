@@ -1,0 +1,1 @@
+# pterodactyl-mc-map-resetter
