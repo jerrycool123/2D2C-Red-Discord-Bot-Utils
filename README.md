@@ -3,4 +3,4 @@
 - pterodactyl
   - mc_map_resetter
 - discord_antiphishing
-  - autoban_honeypot
+  - autoban
