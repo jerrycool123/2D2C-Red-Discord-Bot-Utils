@@ -2,5 +2,5 @@
 
 - pterodactyl
   - mc_map_resetter
-- discord-phishing
+- discord_antiphishing
   - autoban_honeypot
